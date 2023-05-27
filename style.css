@@ -1,0 +1,50 @@
+body {
+   padding: 1em;
+   margin: 1em;
+   background: rgb(9,9,121);
+background: linear-gradient(0deg, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#logomarca {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 200px;
+}
+
+iframe, img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+h1,
+h2 {
+   font-family: "Abyssinica SIL", serif;
+}
+
+a:link {
+   background-color: black;
+}
+
+a:hover {
+   background-color: red;
+}
+
+a:visited {
+   background-color: yellow
+}
+
+a:active {
+   background-color: blue;
+}
+
+.number {
+   background-color: pink;
+   color: blue;
+   font-size: 30px;
+}
+
+em {
+   font-size: 24px;
+}
